@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-[![Top Langs](https://github.com/johnnyboy6800)](https://github.com/anuraghazra/github-readme-stats)
-
 
 📫 Contato: [LinkedIn](www.linkedin.com/in/joão-lucas-434313199) | joaolucas1444@gmail.com
