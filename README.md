@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 
 
-📫 Contato: [LinkedIn](www.linkedin.com/in/joão-lucas-434313199) | joaolucas1444@gmail.com
+📫 Contato: [LinkedIn]([www.linkedin.com/in/joão-lucas-434313199](https://www.linkedin.com/in/jo%C3%A3o-lucas-434313199/)) | joaolucas1444@gmail.com
