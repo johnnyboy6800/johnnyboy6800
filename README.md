@@ -1,33 +1,29 @@
 ## Hi there 👋
 
-<!--
-**johnnyboy6800/johnnyboy6800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ### Olá! Eu sou o João Lucas 👋
 
 🎓 Estudante de Engenharia de Software  
 💻 Apaixonado por desenvolvimento web  
-🛠️ React | PHP | Spring Boot | MySQL  
+🛠️ React | Laravel | Spring Boot | FastApi | Angular  
 📚 Sempre aprendendo coisas novas!
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+## 🚀 Meus Projetos
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| [ Biblioteca API](https://github.com/johnnyboy6800/Biblioteca-Api) | API CRUD criada com FastApi, com o objetivo de gerênciar livros e com autênticação de usuários | Python, Sqlite, FastAPi
+| [Laravel blog API](https://github.com/johnnyboy6800/laravel-blog-api) | Api CRUD criada utilizando o framework Laravel, capaz de gerênciar posts e usuários, com autenticação utilizando jwt token e criptografia de senhas | Java Spring, Java, Postgresql
+| [Java Spring blog API](https://github.com/johnnyboy6800/BlogWebsite-java-spring-API-crud-) | API CRUD capaz de gerênciar posts, com a utilização do framework java spring| Php, Laravel, Postgresql 
+
+## 📈 Status do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyboy6800&layout=compact&theme=dark)
 
 
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-lucas-434313199/) | joaolucas1444@gmail.com
