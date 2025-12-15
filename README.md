@@ -4,8 +4,8 @@
 ### Olá! Eu sou o João Lucas 👋
 
 🎓 Estudante de Engenharia de Software  
-💻 Apaixonado por desenvolvimento web  
-🛠️ React | Laravel | Spring Boot | FastApi | Angular  
+💻 Apaixonado por desenvolvimento back-end
+🛠️ Laravel | Spring Boot | FastApi  
 📚 Sempre aprendendo coisas novas!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
